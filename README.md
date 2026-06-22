@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on machine learning, data analysis, and also on business analysis.<br>I'm looking to collaborate on hands on project regards Data .<br>I'm final year computer engineering  student. I'm looking for help with reputed company for their projects.<br>I had skills like python programing(with library), SQL, Excel, Machine learning, PowerBI.
+Hi, I'm Riddhi Watkar, an aspiring Data Analyst with a passion for transforming raw data into meaningful business insights.
+I enjoy solving real-world problems using data and continuously learning modern analytical tools. My strengths lie in data cleaning, visualization, dashboard development, and identifying patterns that help organizations make better decisions.
+Apart from technical skills, I bring strong communication abilities, adaptability, and a positive attitude to every project. I believe that great analysis is not just about numbers—it's about telling a story that supports smarter decisions.
+My goal is to build impactful dashboards, automate reporting processes, and contribute to data-driven business growth.
+
+# Career Objective
+To begin my career as a Data Analyst in an organization where I can apply my analytical thinking, technical knowledge, and problem-solving abilities while continuously learning and contributing to business success.
 
 
 ## 🌐 Socials:
